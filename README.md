@@ -2,7 +2,7 @@
 
 ## Go
 #### Interfaces
- - https://npf.io/2014/05/intro-to-go-interfaces/#toc_4  
+ - https://npf.io/2014/05/intro-to-go-interfaces/
 <br /><br />
   
 ## Database
