@@ -1,5 +1,7 @@
 # Things I find interesting
 
+https://html.spec.whatwg.org/multipage/input.html#email-state-(type=email)  
+
 ## Go
 #### Interfaces
  - https://npf.io/2014/05/intro-to-go-interfaces/
