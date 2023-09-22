@@ -9,7 +9,9 @@ https://html.spec.whatwg.org/multipage/input.html#email-state-(type=email)
   
 ## Database
  - https://henvic.dev/posts/go-postgres/  
- - https://medium.com/20ms/decoupling-schema-database-migrations-from-code-deployments-6a4b94a271c5  
+ - https://medium.com/20ms/decoupling-schema-database-migrations-from-code-deployments-6a4b94a271c5
+ #### Unique IDS
+  - https://instagram-engineering.com/sharding-ids-at-instagram-1cf5a71e5a5c  
 
 
 ## Paterns
