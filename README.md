@@ -1,5 +1,6 @@
 # Things I find interesting
 
+https://www.embedded.com/incomplete-types-as-abstractions/<br>
 https://html.spec.whatwg.org/multipage/input.html#email-state-(type=email)  
 
 ## Go
