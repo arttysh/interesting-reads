@@ -5,7 +5,9 @@ https://html.spec.whatwg.org/multipage/input.html#email-state-(type=email)
 
 ## Go
 #### Interfaces
- - https://npf.io/2014/05/intro-to-go-interfaces/
+ - https://npf.io/2014/05/intro-to-go-interfaces/<br />
+#### ast
+ - https://go.googlesource.com/example/+/HEAD/gotypes<br />
 <br /><br />
   
 ## Database
