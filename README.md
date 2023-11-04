@@ -19,3 +19,6 @@ https://html.spec.whatwg.org/multipage/input.html#email-state-(type=email)
 
 ## Paterns
  - https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749  
+
+## Load Balancing
+ - https://slack.engineering/migrating-millions-of-concurrent-websockets-to-envoy/  
