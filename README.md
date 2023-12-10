@@ -25,4 +25,4 @@ https://citadelo.com/en/blog/cloudflare-how-to-do-it-right-and-do-not-reveal-you
  - https://slack.engineering/migrating-millions-of-concurrent-websockets-to-envoy/
 
 ## Virtualization
- - https://www.redhat.com/en/blog/introduction-virtio-networking-and-vhost-net <br />
+ - https://www.redhat.com/en/virtio-networking-series <br />
