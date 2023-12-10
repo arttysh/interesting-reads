@@ -22,4 +22,7 @@ https://citadelo.com/en/blog/cloudflare-how-to-do-it-right-and-do-not-reveal-you
  - https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749  
 
 ## Load Balancing
- - https://slack.engineering/migrating-millions-of-concurrent-websockets-to-envoy/  
+ - https://slack.engineering/migrating-millions-of-concurrent-websockets-to-envoy/
+
+## Virtualization
+ - https://www.redhat.com/en/blog/introduction-virtio-networking-and-vhost-net <br />
