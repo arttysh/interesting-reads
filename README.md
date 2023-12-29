@@ -26,6 +26,7 @@ https://citadelo.com/en/blog/cloudflare-how-to-do-it-right-and-do-not-reveal-you
 
 ## Virtualization
  - https://www.redhat.com/en/virtio-networking-series <br />
+ - https://developers.redhat.com/blog/2018/10/22/introduction-to-linux-interfaces-for-virtual-networking#macvtap_ipvtap <br />
 
 #### qemu
  - https://github.com/qemu/qemu/blob/master/docs/qcow2-cache.txt <br />
