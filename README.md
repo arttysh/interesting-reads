@@ -43,3 +43,10 @@
 
 #### qemu
  - [qcow2 caches](https://github.com/qemu/qemu/blob/master/docs/qcow2-cache.txt)
+
+<hr>
+
+## Security
+ - [Let's Encrypt ECDSA Certificates](https://letsencrypt.org/2020/09/17/new-root-and-intermediates.html)
+ - [OpenSSL CA](https://jamielinux.com/docs/openssl-certificate-authority/index.html)
+ - [ECDSA CA OpenSSL](https://www.erianna.com/ecdsa-certificate-authorities-and-certificates-with-openssl/)
