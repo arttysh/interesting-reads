@@ -11,6 +11,15 @@
 <hr>
 
 ## Go
+
+#### Embedding
+ 
+ - Eli Bendersky's website - Embedding in Go
+     - Structs in structs [(part 1)](https://eli.thegreenplace.net/2020/embedding-in-go-part-1-structs-in-structs/)
+     - Interfaces in interfaces [(part 2)](https://eli.thegreenplace.net/2020/embedding-in-go-part-2-interfaces-in-interfaces/)
+     - Interfaces in structs [(part 3)](https://eli.thegreenplace.net/2020/embedding-in-go-part-3-interfaces-in-structs/)
+ - [Effective Go - Embedding](https://go.dev/doc/effective_go#embedding)
+   
 #### Interfaces
  - [Interfaces](https://npf.io/2014/05/intro-to-go-interfaces/)
 #### ast
