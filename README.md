@@ -11,7 +11,7 @@
 <hr>
 
 ## Go
-
+- [Timeouts & Deadlines](https://ieftimov.com/posts/make-resilient-golang-net-http-servers-using-timeouts-deadlines-context-cancellation/)
 #### Embedding
  
  - Eli Bendersky's website - Embedding in Go
