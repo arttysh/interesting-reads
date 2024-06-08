@@ -1,5 +1,7 @@
 # Things I find interesting
 
+[Unicode](https://unicode-org.github.io/icu/userguide/icu/unicode.html)  
+
 [Ring Buffer](https://www.embedded.com/incomplete-types-as-abstractions/)
 
 [HTML Standard - Email](https://html.spec.whatwg.org/multipage/input.html#email-state-(type=email))
