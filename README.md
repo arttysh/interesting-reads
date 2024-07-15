@@ -1,5 +1,7 @@
 # Things I find interesting
 
+[surma.dev blog](https://surma.dev/things/)
+
 [Unicode](https://unicode-org.github.io/icu/userguide/icu/unicode.html)  
 
 [Ring Buffer](https://www.embedded.com/incomplete-types-as-abstractions/)
