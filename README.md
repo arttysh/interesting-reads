@@ -14,6 +14,9 @@
 
 <hr>
 
+## Agile
+ - [A user story about user stories](http://esr.ibiblio.org/?p=8720)
+   
 ## Go
 - [Timeouts & Deadlines](https://ieftimov.com/posts/make-resilient-golang-net-http-servers-using-timeouts-deadlines-context-cancellation/)
 #### Embedding
