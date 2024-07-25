@@ -10,7 +10,7 @@
 
 [CLOUDFLARE, HOW TO DO IT RIGHT AND DON'T REVEAL YOUR REAL IP](https://citadelo.com/en/blog/cloudflare-how-to-do-it-right-and-do-not-reveal-your-real-ip/)
 
-[Architectural Styles and the Design of Network-based Software Architectures](https://ics.uci.edu/~fielding/pubs/dissertation/top.htm])
+[Architectural Styles and the Design of Network-based Software Architectures](https://ics.uci.edu/~fielding/pubs/dissertation/top.htm)
 
 <hr>
 
