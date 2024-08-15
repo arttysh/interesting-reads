@@ -1,5 +1,4 @@
 # Things I find interesting
-
 [surma.dev blog](https://surma.dev/things/)
 
 [Unicode](https://unicode-org.github.io/icu/userguide/icu/unicode.html)  
@@ -35,6 +34,7 @@
 <hr>
 
 ## Database
+ - [SQL indexing & tuning](https://use-the-index-luke.com/)
  - [go pgx](https://henvic.dev/posts/go-postgres/)
  - [Decoupling Schema Migrations](https://medium.com/20ms/decoupling-schema-database-migrations-from-code-deployments-6a4b94a271c5)
    
