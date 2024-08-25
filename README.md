@@ -1,4 +1,7 @@
 # Things I find interesting
+
+[Minimum Password Settings](https://tobtu.com/minimum-password-settings/)
+
 [surma.dev blog](https://surma.dev/things/)
 
 [Unicode](https://unicode-org.github.io/icu/userguide/icu/unicode.html)  
