@@ -1,5 +1,7 @@
 # Things I find interesting
 
+[Frederic Cambus Blog](https://www.cambus.net/)
+
 [Time travel int10h](https://int10h.org/)
 
 [Minimum Password Settings](https://tobtu.com/minimum-password-settings/)
