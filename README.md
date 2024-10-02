@@ -56,7 +56,7 @@
 <hr>
 
 ## Load Balancing
- - [Envoy](https://slack.engineering/migrating-millions-of-concurrent-websockets-to-envoy/)
+ - [Millions of concurrent websockets to **Envoy** (slack)](https://slack.engineering/migrating-millions-of-concurrent-websockets-to-envoy/)
 
 <hr>
 
@@ -66,6 +66,11 @@
 
 #### qemu
  - [qcow2 caches](https://github.com/qemu/qemu/blob/master/docs/qcow2-cache.txt)
+
+<hr>
+
+## Linux
+ - [Linux Admins](http://www.linux-admins.net/p/all-articles.html)
 
 <hr>
 
