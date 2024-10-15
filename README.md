@@ -1,5 +1,7 @@
 # Things I find interesting
 
+[Fabrice Bellard Blog](https://bellard.org/)
+
 [Frederic Cambus Blog](https://www.cambus.net/)
 
 [Time travel int10h](https://int10h.org/)
